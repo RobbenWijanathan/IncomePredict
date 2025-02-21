@@ -59,17 +59,6 @@ Researching income-influencing factors deepens our understanding of their impact
 
 ---
 
-## Usage
-1. **Run IncomePredict**
-2. **Choose an option:**
-   - `1` for Data Visualization
-   - `2` for Encoding & Decoding
-   - `3` for K-Fold Prediction
-   - `4` for Data Merging & Splitting
-3. **Follow on-screen instructions** to analyze income-related data.
-
----
-
 ## Example Dataset
 This project utilizes the **income dataset** from [Selva86's Datasets](https://github.com/selva86/datasets/blob/master/income.csv):
 ```
