@@ -1,6 +1,6 @@
 # IncomePredict: A Simple Data Science Project
 
-**IncomePredict** is a lightweight, **Python-based** data science project focused on **predicting income levels** using **data visualization, encoding techniques, and machine learning models**.
+**IncomePredict** is a lightweight, **Jupyter Notebook Python-based** data science project focused on **predicting income levels** using **data visualization, encoding techniques, and machine learning models**.
 
 ---
 
