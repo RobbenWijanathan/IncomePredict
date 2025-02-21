@@ -65,6 +65,6 @@ Feel free to fork this repository, open issues, or submit pull requests to impro
 ---
 
 ## Contact
-📧 **Email:** your-email@example.com  
-🐙 **GitHub:** [YourGitHub](https://github.com/yourusername)
+📧 **Email:** robbenwijanathan@gmail.com
+🐙 **GitHub:** [RobbenWijanathan](https://github.com/RobbenWijanathan)
 
