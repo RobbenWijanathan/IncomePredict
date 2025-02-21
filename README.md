@@ -73,10 +73,15 @@ Researching income-influencing factors deepens our understanding of their impact
 ## Example Dataset
 This project utilizes the **income dataset** from [Selva86's Datasets](https://github.com/selva86/datasets/blob/master/income.csv):
 ```
-Age,Workclass,Education,MaritalStatus,Occupation,Relationship,Race,Sex,HoursPerWeek,NativeCountry,Income
-39,State-gov,Bachelors,Never-married,Adm-clerical,Not-in-family,White,Male,40,United-States,<=50K
-50,Self-emp-not-inc,Bachelors,Married-civ-spouse,Exec-managerial,Husband,White,Male,13,United-States,<=50K
-38,Private,HS-grad,Divorced,Handlers-cleaners,Not-in-family,White,Male,40,United-States,<=50K
+"INCOME","SEX","MARITAL.STATUS","AGE","EDUCATION","OCCUPATION","AREA","DUAL.INCOMES","HOUSEHOLD.SIZE","UNDER18","HOUSEHOLDER","HOME.TYPE","ETHNIC.CLASS","LANGUAGE"
+"[75.000-","F","Married","45-54","1 to 3 years of college","Homemaker","10+ years","No","Three","None","Own","House","White",NA
+"[75.000-","M","Married","45-54","College graduate","Homemaker","10+ years","No","Five","Two","Own","House","White","English"
+"[75.000-","F","Married","25-34","College graduate","Professional/Managerial","10+ years","Yes","Three","One","Rent","Apartment","White","English"
+"-10.000)","F","Single","14-17","Grades 9 to 11","Student, HS or College","10+ years","Not Married","Four","Two","Family","House","White","English"
+"-10.000)","F","Single","14-17","Grades 9 to 11","Student, HS or College","4-6 years","Not Married","Four","Two","Family","House","White","English"
+"[50.000-75.000)","M","Married","55-64","1 to 3 years of college","Retired","10+ years","No","Two","None","Own","House","White","English"
+"-10.000)","M","Single","18-24","Graduated High Scool","Unemployed","7-10 years","Not Married","Three","One","Rent","Apartment","White","English"
+"[30.000-40.000)","M","Divorced","25-34","1 to 3 years of college","Factory Worker/Laborer/Driver","10+ years","Not Married","One","None","Rent","Apartment","White","English"
 ```
 
 ---
